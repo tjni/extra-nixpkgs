@@ -1,18 +1,18 @@
 {
   "x86_64-linux": {
     "url": "https://code.visualstudio.com/sha/download?build=insider&os=linux-x64",
-    "hash": "sha256-CDJp1WvWFRr9CUj0uqBPDzqyzcnSH9bklruBXGcm2U0="
+    "hash": "sha256-1R21oCupEoNQ+d/0V34c0YnOw0ZZHRJYG1HEoWYypbo="
   },
   "aarch64-linux": {
     "url": "https://code.visualstudio.com/sha/download?build=insider&os=linux-arm64",
-    "hash": "sha256-nZRnYUJVK45IYcRTnx+UgXJ+N2C1hjMkEPospUicE+s="
+    "hash": "sha256-mjEBNZS4GcyW7tde0qFaHXgrVh3fe9pWbmVuWr0lv2I="
   },
   "x86_64-darwin": {
     "url": "https://code.visualstudio.com/sha/download?build=insider&os=darwin",
-    "hash": "sha256-x232L1rt4MbMMr6NVKcjkvMlhclE4mqszoUp2lOeaiQ="
+    "hash": "sha256-tdYmXf36NJVTuBwoTeNzS7jL7r1ABzKN6KiDv1rcIFI="
   },
   "aarch64-darwin": {
     "url": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-arm64",
-    "hash": "sha256-se0afEngetYq+7buLsZlmRdb6F5IrCeBwfSfAFLiD9Y="
+    "hash": "sha256-BxUGZyG7/88ZoFoCmbdPtKMSsPU8WjLAkfIwpzWf1tk="
   }
 }
