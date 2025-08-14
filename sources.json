@@ -5,7 +5,7 @@
   },
   "aarch64-linux": {
     "url": "https://code.visualstudio.com/sha/download?build=insider&os=linux-arm64",
-    "hash": "sha256-5TVU2UMUGYyBPGrxPjaEslx5arqyP20suw/V+1K32gc="
+    "hash": "sha256-IVArvmRxFYROWlw3Ushp7BXyr1PHOZV3B0wUxeLKg9k="
   },
   "x86_64-darwin": {
     "url": "https://code.visualstudio.com/sha/download?build=insider&os=darwin",
