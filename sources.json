@@ -1,7 +1,7 @@
 {
   "x86_64-linux": {
     "url": "https://code.visualstudio.com/sha/download?build=insider&os=linux-x64",
-    "hash": "sha256-EG8U6jG9JzjRJ/pt0B0Bu/9OzMdWA5y/y0j/sly4xQQ="
+    "hash": "sha256-iDRX/3ilKc5LAneTtTtlfjHqIVdYTXeI4MlZeZNvf8g="
   },
   "aarch64-linux": {
     "url": "https://code.visualstudio.com/sha/download?build=insider&os=linux-arm64",
@@ -13,6 +13,6 @@
   },
   "aarch64-darwin": {
     "url": "https://code.visualstudio.com/sha/download?build=insider&os=darwin-arm64",
-    "hash": "sha256-tlPx6EPPO/1XvEaVcs+lp5syDT911oVX3F9TCI3obWo="
+    "hash": "sha256-lKlz9v12n7pqgVfQErvMWXnJjkRKQZhWPeImOJLlwFk="
   }
 }
